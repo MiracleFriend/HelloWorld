@@ -1,0 +1,7 @@
+Hello everyone!
+I am Friend Zhang~
+This is the first repository I've built on Github
+This account was created when I was in junior high school and I used it to find information for my creative design of j-bots at night.
+After university I started to learn about it systematically and was introduced to it by the teacher who taught the Android development course and started to restart github for learning. In the future I will learn more expertise here, learn more from my seniors and try to improve myself. This platform will also become a place to record my little growth.
+Today is my first day of learning on Github.
+I am glad to meet you all!
